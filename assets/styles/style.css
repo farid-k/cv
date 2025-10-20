@@ -1242,7 +1242,7 @@ iframe {
 }
 .overlay::before, .overlay--45::before, .overlay--80::before {
   content: '';
-  background-color: rgba(68, 86, 108, 0.35);
+  background-color: rgba();
   position: absolute;
   top: 0;
   left: 0;
@@ -1251,10 +1251,10 @@ iframe {
   z-index: 2;
 }
 .overlay--45::before {
-  background-color: rgba(68, 86, 108, 0.45);
+  background-color: rgba();
 }
 .overlay--80::before {
-  background-color: rgba(68, 86, 108, 0.8);
+  background-color: rgba();
 }
 
 .avatar-wrap {
