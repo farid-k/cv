@@ -1,0 +1,51 @@
+# Node & npm
+node_modules/
+npm-debug.log
+package-lock.json
+yarn.lock
+
+# IDEs & Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Build & Dist
+dist/
+build/
+*.min.js
+*.min.css
+
+# Backups
+*.bak
+*-old.html
+index-old.html
+
+# Logs
+logs/
+*.log
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+*.exe
+*.dll
+
+# Analytics
+.analytics/
+
+# Temporary
+tmp/
+temp/
+*.tmp
